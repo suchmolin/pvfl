@@ -2,13 +2,13 @@ import './App.css'
 import Navbar from './components/Navbar'
 import Header from './components/Header'
 import Caracteristicas from './components/Caracteristicas'
+/*
 import Motivalo from './components/Motivalo'
 import QueObtiene from './components/QueObtiene'
 import TodoListo from './components/TodoListo'
 import Summer2025 from './components/Summer2025'
 import AprovechaPreventa from './components/AprovechaPreventa'
 import UnPlanVacaional from './components/UnPlanVacaional'
-/*
 import Sumergelo from './components/Sumergelo'
 import AsiSeVive from './components/AsiSeVive'
 import Contactanos from './components/Contactanos'
@@ -26,13 +26,14 @@ function App() {
       <Navbar />
       <Header />
       <Caracteristicas />
+      {/*
       <Motivalo />
-      <QueObtiene />
+      <QueObtiene /> */}
       {/* <Galeria /> */}
-      <TodoListo />
+      {/* <TodoListo />
       <Summer2025 />
       <UnPlanVacaional />
-      <AprovechaPreventa />
+      <AprovechaPreventa /> */}
       {/*
       <Sumergelo />
       <AsiSeVive />
