@@ -31,12 +31,12 @@ function App() {
       {/* <Galeria /> */}
       <TodoListo />
       <Summer2025 />
-      <Sumergelo />
-      {/*
-      <AsiSeVive />
       <UnPlanVacaional />
-      <Reviews />
       <AprovechaPreventa />
+      {/*
+      <Sumergelo />
+      <AsiSeVive />
+      <Reviews />
       <PreguntasFrecuentes />
       <Contactanos />
       <Footer />
