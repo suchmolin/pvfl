@@ -5,7 +5,7 @@ export default function Diferenciadores() {
             <div className="flex flex-col gap-2">
                 <div className="flex gap-2 items-center">
                     <div className=" bg-[#97D700] p-2 rounded-lg w-[40px] sm:w-[60px] lg:w-[80px] 2xl:w-[100px] relative">
-                        <img src="/img/PERSONAESTRELLA.webp" alt="persona estrella icono" className="w-[40px] sm:w-[60px] lg:w-[80px] 2xl:w-[100px] h-fit" />
+                        <img src="/img/PERSONAESTRELLA.webp" alt="persona estrella icono" className="w-[40px] sm:w-[60px] lg:w-[80px] 2xl:w-[100px] " />
                     </div>
                     <div className="relative px-2 py-2 flex justify-center items-cente h-fit ">
                         <img src="/img/fondoformablanco.webp" alt="forma fondo blanco" className="w-full h-full absolute top-0" />
@@ -14,7 +14,7 @@ export default function Diferenciadores() {
                 </div>
                 <div className="flex gap-2 items-center">
                     <div className=" bg-[#001A70] p-2 rounded-lg w-[40px] sm:w-[60px] lg:w-[80px] 2xl:w-[100px] relative">
-                        <img src="/img/FORMASGEOBLANCAS.webp" alt="persona estrella icono" className="w-[40px] sm:w-[60px] lg:w-[80px] 2xl:w-[100px] h-fit" />
+                        <img src="/img/FORMASGEOBLANCAS.webp" alt="persona estrella icono" className="w-[40px] sm:w-[60px] lg:w-[80px] 2xl:w-[100px] " />
                     </div>
                     <div className="relative px-2 py-2 flex justify-center items-cente h-fit ">
                         <img src="/img/fondoformablanco.webp" alt="forma fondo blanco" className="w-full h-full absolute top-0" />
@@ -22,7 +22,7 @@ export default function Diferenciadores() {
                     </div>
                 </div><div className="flex gap-2 items-center">
                     <div className=" bg-[#FFA400] p-2 rounded-lg w-[40px] sm:w-[60px] lg:w-[80px] 2xl:w-[100px] relative">
-                        <img src="/img/DOSPERSONAS.webp" alt="persona estrella icono" className="w-[40px] sm:w-[60px] lg:w-[80px] 2xl:w-[100px] h-fit" />
+                        <img src="/img/DOSPERSONAS.webp" alt="persona estrella icono" className="w-[40px] sm:w-[60px] lg:w-[80px] 2xl:w-[100px] " />
                     </div>
                     <div className="relative px-2 py-2 flex justify-center items-cente h-fit ">
                         <img src="/img/fondoformablanco.webp" alt="forma fondo blanco" className="w-full h-full absolute top-0" />
