@@ -6,16 +6,16 @@ import Motivalo from './components/Motivalo'
 import QueObtiene from './components/QueObtiene'
 import TodoListo from './components/TodoListo'
 import Summer2025 from './components/Summer2025'
-import Sumergelo from './components/Sumergelo'
-/*
 import AprovechaPreventa from './components/AprovechaPreventa'
+import UnPlanVacaional from './components/UnPlanVacaional'
+/*
+import Sumergelo from './components/Sumergelo'
 import AsiSeVive from './components/AsiSeVive'
 import Contactanos from './components/Contactanos'
 import Footer from './components/Footer'
 import Galeria from './components/Galeriaindex'
 import PreguntasFrecuentes from './components/PreguntasFrecuentes'
 import Reviews from './components/Reviews'
-import UnPlanVacaional from './components/UnPlanVacaional'
 import WhatsappButton from './components/WhatsappButton'
 */
 
