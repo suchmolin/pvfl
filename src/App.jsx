@@ -30,10 +30,10 @@ function App() {
       <QueObtiene />
       {/* <Galeria /> */}
       <TodoListo />
-      <Summer2025 />
-      {/* <AsiSeVive /> */}
-      <Sumergelo />
       {/*
+      <Summer2025 />
+      <AsiSeVive />
+      <Sumergelo />
       <UnPlanVacaional />
       <Reviews />
       <AprovechaPreventa />
