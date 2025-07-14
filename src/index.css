@@ -1,0 +1,72 @@
+@font-face{
+  font-family: eastman;
+  src: url("/fonts/EastmanRomanTrial-Regular.otf")
+}
+@font-face{
+  font-family: eastman-bold;
+  src: url("/fonts/EastmanRomanTrial-Bold.otf")
+}
+@font-face{
+  font-family: eastman-black;
+  src: url("/fonts/EastmanRomanTrial-Black.otf")
+}
+@font-face{
+  font-family: lato;
+  src: url("/fonts/Lato-Regular.ttf")
+}
+@font-face{
+  font-family: lato-bold;
+  src: url("/fonts/Lato-Bold.ttf")
+}
+@font-face{
+  font-family: lato-black;
+  src: url("/fonts/Lato-Black.ttf")
+}
+@font-face{
+  font-family: lemon;
+  src: url("/fonts/LEMONMILK-Regular.otf")
+}
+@font-face{
+  font-family: lemon-bold;
+  src: url("/fonts/LEMONMILK-Bold.otf")
+}
+@font-face{
+  font-family: lemon-medium;
+  src: url("/fonts/LEMONMILK-Medium.otf")
+}
+@import "tailwindcss";
+
+.eastman {
+  font-family: eastman
+}
+.eastman-bold {
+  font-family: eastman-bold
+}
+.eastman-black {
+  font-family: eastman-black
+}
+.lato {
+  font-family: lato
+}
+.lato-bold {
+  font-family: lato-bold
+}
+.lato-black {
+  font-family: lato-black
+}
+.lemon {
+  font-family: lemon
+}
+.lemon-bold {
+  font-family: lemon-bold
+}
+.lemon-medium {
+  font-family: lemon-medium
+}
+*{
+  scroll-behavior: smooth;
+}
+
+textarea{
+  resize: none;
+}
