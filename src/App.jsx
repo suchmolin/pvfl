@@ -26,10 +26,10 @@ function App() {
       <Navbar />
       <Header />
       <Caracteristicas />
-      {/*
+
       <Motivalo />
-      <QueObtiene /> */}
-      {/* <Galeria /> */}
+      <QueObtiene />
+      <Galeria />
       {/* <TodoListo />
       <Summer2025 />
       <UnPlanVacaional />
