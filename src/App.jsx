@@ -3,6 +3,8 @@ import Navbar from './components/Navbar'
 import Header from './components/Header'
 import Caracteristicas from './components/Caracteristicas'
 import Motivalo from './components/Motivalo'
+import QueObtiene from './components/QueObtiene'
+import TodoListo from './components/TodoListo'
 /*
 import AprovechaPreventa from './components/AprovechaPreventa'
 import AsiSeVive from './components/AsiSeVive'
@@ -10,11 +12,9 @@ import Contactanos from './components/Contactanos'
 import Footer from './components/Footer'
 import Galeria from './components/Galeriaindex'
 import PreguntasFrecuentes from './components/PreguntasFrecuentes'
-import QueObtiene from './components/QueObtiene'
 import Reviews from './components/Reviews'
 import Sumergelo from './components/Sumergelo'
 import Summer2025 from './components/Summer2025'
-import TodoListo from './components/TodoListo'
 import UnPlanVacaional from './components/UnPlanVacaional'
 import WhatsappButton from './components/WhatsappButton'
 */
@@ -27,10 +27,10 @@ function App() {
       <Header />
       <Caracteristicas />
       <Motivalo />
-      {/*
       <QueObtiene />
-      <Galeria />
+      {/* <Galeria /> */}
       <TodoListo />
+      {/*
       <Summer2025 />
       <AsiSeVive />
       <Sumergelo />
